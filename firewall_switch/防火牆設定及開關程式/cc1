@@ -1,0 +1,37 @@
+#! /usr/bin/python3
+
+import sys, os
+from argparse import ArgumentParser
+
+# if add new rules , need to check new handle numbers
+# check handle numbers: /usr/sbin/nft -a list table filter
+
+
+open_cmd_list = []
+open_cmd_list.append('/usr/sbin/nft replace rule filter forward \
+    handle 24 iifname "eth0" accept')
+open_cmd_list.append('/usr/sbin/nft replace rule filter forward \
+    handle 25 iifname "eth1" accept')
+
+close_cmd_list = []
+close_cmd_list.append('/usr/sbin/nft replace rule filter forward \
+    handle 24 iifname "eth0" drop')
+close_cmd_list.append('/usr/sbin/nft replace rule filter forward \
+    handle 25 iifname "eth1" drop')
+
+parser = ArgumentParser()
+parser.add_argument('switch', help='cc1 student PC internet switch')
+
+args = parser.parse_args()
+
+if args.switch == 'open':
+    for cmd in open_cmd_list:
+        os.system(cmd)
+        print(cmd)
+elif args.switch == 'close':
+    for cmd in close_cmd_list:
+        os.system(cmd)
+        print(cmd)
+else:
+    print('invalid command: ', args.switch)
+

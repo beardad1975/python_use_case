@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="架構圖.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="465.81851"
+     inkscape:cy="522.57437"
+     inkscape:window-width="1600"
+     inkscape:window-height="809"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="6.1347523"
+       markerHeight="5.9304953"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#daf6ff;fill-opacity:1;stroke:none;stroke-width:0.451658;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2112"
+       width="146.16211"
+       height="74.527107"
+       x="38.042194"
+       y="101.22338"
+       ry="2.7602632"
+       inkscape:export-filename="防火牆架構圖.png"
+       inkscape:export-xdpi="124.32"
+       inkscape:export-ydpi="124.32" />
+    <rect
+       style="fill:#cfbfff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect238"
+       width="16.312502"
+       height="16.3125"
+       x="135.00255"
+       y="133.22279"
+       ry="3.3370347" />
+    <rect
+       style="fill:#a3ffc5;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1578"
+       width="59.425053"
+       height="18.935698"
+       x="57.272858"
+       y="116.4496"
+       ry="4.2269106" />
+    <rect
+       style="fill:#a3ffc5;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1580"
+       width="59.425053"
+       height="18.935698"
+       x="57.272858"
+       y="146.26044"
+       ry="3.7819726" />
+    <rect
+       style="fill:#eeff00;fill-opacity:1;stroke:#000000;stroke-width:0.910303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1589"
+       width="46.380451"
+       height="19.016764"
+       x="102.05982"
+       y="76.030952"
+       ry="4.772161" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;stroke-width:0.137497"
+       x="137.37598"
+       y="139.29768"
+       id="text1645"><tspan
+         sodipodi:role="line"
+         id="tspan1643"
+         style="stroke-width:0.137497"
+         x="137.37598"
+         y="139.29768">老師</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.137497"
+         x="137.37598"
+         y="146.75146"
+         id="tspan1647">電腦</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;stroke-width:0.137497"
+       x="76.641945"
+       y="127.72929"
+       id="text1653"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.137497"
+         x="76.641945"
+         y="127.72929"
+         id="tspan1651">學生電腦</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;stroke-width:0.137497"
+       x="76.641945"
+       y="158.20753"
+       id="text1709"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.137497"
+         x="76.641945"
+         y="158.20753"
+         id="tspan1707">學生電腦</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;stroke-width:0.137497"
+       x="110.45724"
+       y="82.790558"
+       id="text1713"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.137497"
+         x="110.45724"
+         y="82.790558"
+         id="tspan1711">linux防火牆</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264919px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.47242,95.216637 v 61.558583 h -8.78735"
+       id="path1795" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 117.03813,125.84746 h 8.18009"
+       id="path2056" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.53284,141.26377 h 9.28125"
+       id="path2058" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;writing-mode:lr-tb;stroke-width:0.137497"
+       x="159.62289"
+       y="173.33542"
+       id="text2116"><tspan
+         sodipodi:role="line"
+         style="writing-mode:lr-tb;stroke-width:0.137497"
+         x="159.62289"
+         y="173.33542"
+         id="tspan2114">電腦教室</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;writing-mode:lr-tb;stroke-width:0.137497"
+       x="154.72856"
+       y="140.41"
+       id="text2143"><tspan
+         sodipodi:role="line"
+         style="writing-mode:lr-tb;stroke-width:0.137497"
+         x="154.72856"
+         y="140.41"
+         id="tspan2141">防火牆</tspan><tspan
+         sodipodi:role="line"
+         style="writing-mode:lr-tb;stroke-width:0.137497"
+         x="154.72856"
+         y="147.86378"
+         id="tspan2470">白名單</tspan></text>
+    <path
+       style="fill:none;stroke:#ff2100;stroke-width:1.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:1.465, 1.465;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#RoundedArrow)"
+       d="m 137.48582,102.78067 6.3614,28.80995"
+       id="path2205"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;stroke-width:0.137497"
+       x="105.56292"
+       y="91.466843"
+       id="text2574"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.137497"
+         x="105.56292"
+         y="91.466843"
+         id="tspan2572">Python開關程式</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;stroke-width:0.137497"
+       x="113.5718"
+       y="107.48462"
+       id="text2613"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.137497"
+         x="113.5718"
+         y="107.48462"
+         id="tspan2611">內網</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;stroke-width:0.137497"
+       x="164.29472"
+       y="84.57032"
+       id="text2617"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.137497"
+         x="164.29472"
+         y="84.57032"
+         id="tspan2615">網際網路</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 148.89208,85.201588 h 9.28125"
+       id="path2619" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;writing-mode:lr-tb;stroke-width:0.137497"
+       x="144.71745"
+       y="121.72261"
+       id="text2663"><tspan
+         sodipodi:role="line"
+         style="writing-mode:lr-tb;stroke-width:0.137497"
+         x="144.71745"
+         y="121.72261"
+         id="tspan2661">ssh遠端連線</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.49988px;line-height:1.25;font-family:sans-serif;stroke-width:0.137497"
+       x="159.84535"
+       y="91.911797"
+       id="text2707"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.137497"
+         x="159.84535"
+         y="91.911797"
+         id="tspan2705">作業主機(白名單)</tspan></text>
+  </g>
+</svg>
